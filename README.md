@@ -1,4 +1,5 @@
 # CAT-2-OOP
+-code is written and edited by Agonga David (BBIT 145937)
 
 ## Student.java file
  - The class uses private instance variables (`Sname` and `grade`) to store the student's name and grade.
